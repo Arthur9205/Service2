@@ -10,7 +10,7 @@ namespace Service2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("1.1.0");//1.2.1
+            Console.WriteLine("1.1.0");//1.2.111
         }
     }
 }
