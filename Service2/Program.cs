@@ -10,6 +10,7 @@ namespace Service2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("1.0.0.0");
         }
     }
 }
